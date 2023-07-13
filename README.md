@@ -1,7 +1,7 @@
 - Welcome! My name is Daniel Burrall
-- I'm interested in one day becoming a full stack dev, capable of programming in any and all languages! 
-- HTML, CSS, JS, React & Ruby/Rails
-- As of right now, I practice building websites while taking on "The Odin Project" to learn all aspects to being a front-end dev.
+- I love coding and programming (go figure)
+- HTML, CSS, JS, React & Ruby/Rails, Drupal, Twig, Next.Js are what I use the most
+- Dannybdev.com is my current portfolio site
 - You can reach me at my Email: Danburrall@gmail.com 
 
 <!---
