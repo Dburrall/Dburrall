@@ -1,6 +1,6 @@
 - Welcome! My name is Daniel Burrall
 - I love coding and programming (go figure)
-- HTML, CSS, JS, React & Ruby/Rails, Drupal, Twig, Next.Js are what I use the most
+- HTML, CSS, JS, React & Ruby/Rails, Drupal are what I use the most
 - Dannybdev.com is my current portfolio site
 - You can reach me at my Email: Danburrall@gmail.com 
 
