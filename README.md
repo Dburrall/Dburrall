@@ -1,5 +1,5 @@
 - Welcome!
-- You can reach me at my Email: Danburrall@gmail.com 
+- You can reach me at my Email: Danburrall@proton.me
 
 <!---
 Dburrall/Dburrall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
