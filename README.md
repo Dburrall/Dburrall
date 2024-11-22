@@ -1,7 +1,7 @@
 - Welcome!
 - Web Developer with over 3 years experience
 - Languages, Libraries and Frameworks include:
-- <span style="color: yellow;">Javascript</span>
+- 🟨 Javascript
 - NodeJS
 - Deno  
 - HTML/CSS
