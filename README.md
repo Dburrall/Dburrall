@@ -2,6 +2,8 @@
 - Web Developer with over 3 years experience
 - Languages, Libraries and Frameworks include:
 - Javascript
+- NodeJS
+- DENO!
 - HTML/CSS
 - React
 - NextJS
