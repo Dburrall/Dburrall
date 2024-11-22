@@ -3,7 +3,7 @@
 - Languages, Libraries and Frameworks include:
 - Javascript
 - NodeJS
-- <span style="color: green;">DENO!
+- <span style="color: green;">DENO!</span>
 - HTML/CSS
 - React
 - NextJS
