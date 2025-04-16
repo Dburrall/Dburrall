@@ -9,7 +9,6 @@
 - 🐳 Docker
 - Looking to connect? 
 - You can reach me at my Email: Danburrall@proton.me
-- Or check out my personal site: Dannybdev.com
 
 <!---
 Dburrall/Dburrall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
